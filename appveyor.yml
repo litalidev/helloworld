@@ -43,6 +43,8 @@ build_script:
   - call "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\vcvars64.bat"
   - msbuild helloworld.sln /p:Configuration=Debug
   - msbuild helloworld.sln /p:Configuration=Release
+
+  - dir/s *.exe
   #
   # vs2017 32bit
   # call "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\vcvars32.bat"
