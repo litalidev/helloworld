@@ -24,7 +24,7 @@ configuration:
   - Release
   - Debug
 
-environment:
+#environment:
   #matrix:
   #  - generator: "Visual Studio 15"    
 
