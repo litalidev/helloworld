@@ -31,6 +31,8 @@ platform:
 matrix:
   fast_finish: true
 
+artifacts:
+  - path: **\*.exe
 
 build_script:
   - cd %clone_folder%
