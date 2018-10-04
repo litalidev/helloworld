@@ -1,2 +1,2 @@
 # helloworld
-Just a simple helloworld project
+Just a simple helloworld c++ project
