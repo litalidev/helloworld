@@ -20,9 +20,9 @@ version: '{build}'
 platform:
   - x86
 
-configuration:
-  - Release
-  - Debug
+#configuration:
+#  - Release
+#  - Debug
 
 #environment:
   #matrix:
