@@ -19,7 +19,6 @@ version: '{build}'
 
 platform:
   - x86
-platform: Any CPU
 
 configuration:
   - Release
