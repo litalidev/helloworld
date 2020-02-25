@@ -38,4 +38,5 @@ x64/
 Debug/
 Release/
 
+*.swp
 *~

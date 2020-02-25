@@ -37,6 +37,9 @@ artifacts:
 build_script:
   - cd %clone_folder%
   - dir
+  - ml64
+  - cl
+
 
   - call "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\vcvars32.bat"
   - msbuild helloworld.sln /p:Configuration=Debug
